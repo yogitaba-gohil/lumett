@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import Hoc from "./HOC";
 
 function App() {
